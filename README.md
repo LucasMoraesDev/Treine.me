@@ -1,3 +1,3 @@
-# Treine.me - meuprojeto02-explorer
+# Treine.me
 
 <img src="Screenshot_20221026_165829.png">
